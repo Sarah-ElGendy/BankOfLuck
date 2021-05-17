@@ -1,0 +1,6 @@
+﻿  GUI.cpp
+C:\Users\user\OneDrive - Zewail City of Science and Technology\Desktop\LuckBankSim_Startup Code\LuckBankSim\GUI.cpp(472,24): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\user\OneDrive - Zewail City of Science and Technology\Desktop\LuckBankSim_Startup Code\LuckBankSim\GUI.cpp(473,23): warning C4834: discarding return value of function with 'nodiscard' attribute
+  main.cpp
+  Generating Code...
+  LuckBankSim.vcxproj -> C:\Users\user\OneDrive - Zewail City of Science and Technology\Desktop\LuckBankSim_Startup Code\Debug\LuckBankSim.exe
